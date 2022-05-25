@@ -1,9 +1,23 @@
-
+import java.util.*;
 public class ArrayGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		String [] nombres = {"ANA", "LUIS", "ANTONIO", "MANUEL"};
+		
+		comprobarNombres(nombres);
+		
 	}
 
+	public static void comprobarNombres(String[] nombres) {
+		
+		for (int i=0; i<nombres.length; i++) {
+			String c = nombres[i];
+				
+
+				}
+		
+		
+	}
+	
 }
